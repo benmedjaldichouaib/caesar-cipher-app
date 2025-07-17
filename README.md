@@ -39,3 +39,5 @@ This is a **simple yet powerful Caesar Cipher tool** that can **encrypt** and **
 
 ```bash
 pip install gradio
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/benmedjaldichouaib/caesar-cipher-app/blob/main/caesar_cipher.py)
+
